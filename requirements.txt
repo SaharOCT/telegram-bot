@@ -1,0 +1,5 @@
+telebot
+requests
+googlesearch-python
+duckduckgo-search
+fuzzywuzzy
